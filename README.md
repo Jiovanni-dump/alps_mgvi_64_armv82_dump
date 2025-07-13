@@ -1,0 +1,14 @@
+# sys_mssi_64_ww_armv82-user 14 UP1A.231005.007  release-keys
+- manufacturer: alps
+- platform: common
+- codename: mgvi_64_armv82
+- flavor: sys_mssi_64_ww_armv82-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: p1rck6989v164P18
+- tags: release-keys
+- fingerprint: /hal_mgvi_64_armv82/mgvi_64_armv82:14/UP1A.231005.007/:user/release-keys
+- is_ab: true
+- brand: alps
+- branch: sys_mssi_64_ww_armv82-user-14-UP1A.231005.007--release-keys
+- repo: alps_mgvi_64_armv82_dump
